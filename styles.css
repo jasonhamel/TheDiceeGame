@@ -32,3 +32,15 @@ footer {
   color: white;
   margin-top: 75px;
 }
+
+img {
+  margin: 0px;
+  padding: 0px;
+}
+
+button {
+  padding: 0px 20px;
+  margin: 0px;
+  border: 0px;
+  background-color: #393e46;
+}
